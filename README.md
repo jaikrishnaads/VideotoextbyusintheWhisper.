@@ -57,7 +57,7 @@ Everything runs **locally on your machine**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/batch-video-transcriber.git
+git clone https://github.com/jaikrishnaads/VideotoextbyusintheWhisper..git
 cd batch-video-transcriber
 ```
 
